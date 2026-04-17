@@ -1,3 +1,3 @@
-NGROK_URL=0.tcp.ap.ngrok.io:18886
+NGROK_URL=0.tcp.ap.ngrok.io:19145
 RDP_USER=DucthengTechDz
 RDP_PASS=W1nd0ws-P4ssw0rd-2025!
